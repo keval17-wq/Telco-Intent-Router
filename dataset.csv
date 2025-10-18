@@ -1,0 +1,211 @@
+text,intent
+start a new mobile plan,new_connection
+can you help: need a new sim card,new_connection
+"for my home internet, transfer my internet to new address",move_house
+"for my business line, bill shows services I didn't use",billing_issue
+need a new sim card,new_connection
+"hey support, network outage since morning",outage_report
+relocate service to a new home,move_house
+"in Australia/Sydney, need breakdown of last bill",billing_issue
+can you help: why is my bill so high this month,billing_issue
+question about my account: add data pack,recharge_topup
+incorrect GST on my statement,billing_issue
+urgent: change service address,move_house
+"in Australia/Sydney, transfer my internet to new address",move_house
+port my number to your network please,new_connection
+move home internet setup,move_house
+question about my account: buy a new recharge voucher,recharge_topup
+change service address,move_house
+"agent transferred me here, order a fresh connection",new_connection
+switch provider to you,new_connection
+what's the process to move service,move_house
+can you help: need extra 5GB today,recharge_topup
+extend validity of my plan,recharge_topup
+"for my home internet, switch provider to you",new_connection
+can you help: slow speed after 7pm,tech_support
+move home internet setup please,move_house
+recharge my prepaid,recharge_topup
+"voice menu couldn't help, calls dropping frequently",tech_support
+"voice menu couldn't help, how to cancel broadband",cancellation
+urgent: relocate service to a new home,move_house
+need extra 5GB today,recharge_topup
+setup help for new modem,tech_support
+APN settings not working,tech_support
+set up a new broadband plan,new_connection
+close my account please,cancellation
+"hey support, start a new mobile plan",new_connection
+"agent transferred me here, need extra 5GB today",recharge_topup
+update address and move line,move_house
+losing connection every hour,outage_report
+"agent transferred me here, move home internet setup",move_house
+need breakdown of last bill,billing_issue
+SIM not detected by phone,tech_support
+question about my account: moving to a different suburb,move_house
+moving to a different suburb,move_house
+no dial tone on landline,tech_support
+I want to quit the service please,cancellation
+can you help: setup help for new modem,tech_support
+sign me up for nbn,new_connection
+"hey support, extend validity of my plan",recharge_topup
+"hey support, dispute roaming charges",billing_issue
+charge appeared after cancel,billing_issue
+"hey support, broadband keeps dropping",outage_report
+network outage since morning,outage_report
+top up balance,recharge_topup
+"for my business line, my internet is down",outage_report
+"in Australia/Sydney, extend validity of my plan",recharge_topup
+end my contract early,cancellation
+"hey support, my internet is down",outage_report
+"agent transferred me here, dispute roaming charges",billing_issue
+"for my home internet, discontinue my mobile line",cancellation
+"agent transferred me here, top up balance",recharge_topup
+stop all services from next month,cancellation
+charge appeared after cancel please,billing_issue
+overbilled for data usage,billing_issue
+"for my business line, need installation appointment",new_connection
+cancel my plan,cancellation
+double charged this cycle,billing_issue
+question about my account: relocate service to a new home,move_house
+"voice menu couldn't help, losing connection every hour",outage_report
+mobile data not working,outage_report
+book a relocation of nbn,move_house
+slow speed after 7pm,tech_support
+wifi light is red,outage_report
+low balance need recharge,recharge_topup
+I want to quit the service,cancellation
+can you help: cancel my plan,cancellation
+slow speed after 7pm please,tech_support
+can you help: I want to terminate the service,cancellation
+"agent transferred me here, book a relocation of nbn",move_house
+discontinue my mobile line please,cancellation
+urgent: mobile data not working,outage_report
+"in Australia/Sydney, stop all services from next month",cancellation
+"agent transferred me here, request cancellation",cancellation
+request cancellation,cancellation
+question about my account: calls dropping frequently,tech_support
+"hey support, can't make calls right now",outage_report
+how to cancel broadband,cancellation
+"hey support, query charges on my invoice",billing_issue
+urgent: double charged this cycle,billing_issue
+"for my business line, close my account please",cancellation
+question about my account: low balance need recharge,recharge_topup
+"for my business line, packet loss on video calls",tech_support
+can you help: low balance need recharge,recharge_topup
+"voice menu couldn't help, switch provider to you",new_connection
+question about my account: set up a new broadband plan,new_connection
+"voice menu couldn't help, need a new sim card",new_connection
+urgent: incorrect GST on my statement,billing_issue
+"for my home internet, what's the process to move service",move_house
+"agent transferred me here, broadband keeps dropping",outage_report
+can you help: wifi light is red,outage_report
+"for my business line, my router keeps rebooting",tech_support
+order a fresh connection,new_connection
+late fee reversal request please,billing_issue
+"for my home internet, I'm moving house next week",move_house
+can't pair the modem,tech_support
+packet loss on video calls,tech_support
+"agent transferred me here, how to get a new connection",new_connection
+calls dropping frequently,tech_support
+"for my business line, cancel my plan",cancellation
+"voice menu couldn't help, late fee reversal request",billing_issue
+question about my account: shift my connection,move_house
+"agent transferred me here, start a new mobile plan",new_connection
+"agent transferred me here, how to cancel broadband",cancellation
+purchase a recharge pack,recharge_topup
+"voice menu couldn't help, charge appeared after cancel",billing_issue
+query charges on my invoice,billing_issue
+broadband keeps dropping,outage_report
+"voice menu couldn't help, can't make calls right now",outage_report
+apply for a home internet service please,new_connection
+"for my home internet, how to top up online",recharge_topup
+shift my connection,move_house
+end my contract early please,cancellation
+service interruption today,outage_report
+I'm moving house next week,move_house
+DNS not resolving,tech_support
+"agent transferred me here, is there an outage near me",outage_report
+"for my home internet, top up balance",recharge_topup
+can't make calls right now,outage_report
+"for my business line, buy a new recharge voucher",recharge_topup
+losing connection every hour please,outage_report
+question about my account: wifi light is red,outage_report
+overbilled for data usage please,billing_issue
+"in Australia/Sydney, I want to terminate the service",cancellation
+"for my business line, SIM not detected by phone",tech_support
+"agent transferred me here, stop all services from next month",cancellation
+"voice menu couldn't help, apply for a home internet service",new_connection
+"voice menu couldn't help, moving to a different suburb",move_house
+"for my home internet, activate data add-on",recharge_topup
+dispute roaming charges,billing_issue
+"voice menu couldn't help, double charged this cycle",billing_issue
+urgent: network outage since morning,outage_report
+"hey support, add data pack",recharge_topup
+"voice menu couldn't help, update address and move line",move_house
+bill shows services I didn't use,billing_issue
+how to top up online,recharge_topup
+"hey support, end my contract early",cancellation
+"for my business line, DNS not resolving",tech_support
+"in Australia/Sydney, port my number to your network",new_connection
+my internet is down,outage_report
+add data pack,recharge_topup
+no signal in my area,outage_report
+my router keeps rebooting,tech_support
+setup help for new modem please,tech_support
+"for my business line, can't pair the modem",tech_support
+I want to terminate the service,cancellation
+urgent: APN settings not working,tech_support
+can you help: change service address,move_house
+question about my account: I want to quit the service,cancellation
+activate data add-on,recharge_topup
+"for my business line, APN settings not working",tech_support
+"for my home internet, DNS not resolving",tech_support
+"agent transferred me here, set up a new broadband plan",new_connection
+no signal in my area please,outage_report
+need breakdown of last bill please,billing_issue
+question about my account: no dial tone on landline,tech_support
+urgent: how to get a new connection,new_connection
+"in Australia/Sydney, packet loss on video calls",tech_support
+transfer my internet to new address,move_house
+buy a new recharge voucher,recharge_topup
+update address and move line please,move_house
+discontinue my mobile line,cancellation
+"in Australia/Sydney, why is my bill so high this month",billing_issue
+urgent: order a fresh connection,new_connection
+"voice menu couldn't help, no dial tone on landline",tech_support
+need installation appointment,new_connection
+"in Australia/Sydney, port out and cancel",cancellation
+"for my business line, query charges on my invoice",billing_issue
+"agent transferred me here, mobile data not working",outage_report
+urgent: my router keeps rebooting,tech_support
+"agent transferred me here, no signal in my area",outage_report
+"for my home internet, shift my connection",move_house
+recharge my prepaid please,recharge_topup
+can you help: service interruption today,outage_report
+how to get a new connection,new_connection
+"for my business line, is there an outage near me",outage_report
+"hey support, overbilled for data usage",billing_issue
+late fee reversal request,billing_issue
+"for my business line, service interruption today",outage_report
+apply for a home internet service,new_connection
+why is my bill so high this month,billing_issue
+how to top up online please,recharge_topup
+port out and cancel,cancellation
+"for my home internet, close my account please",cancellation
+urgent: purchase a recharge pack,recharge_topup
+"agent transferred me here, sign me up for nbn",new_connection
+"in Australia/Sydney, activate data add-on",recharge_topup
+"in Australia/Sydney, port out and cancel",cancellation
+is there an outage near me,outage_report
+"in Australia/Sydney, what's the process to move service",move_house
+"in Australia/Sydney, need installation appointment",new_connection
+port my number to your network,new_connection
+"for my business line, bill shows services I didn't use",billing_issue
+"for my home internet, request cancellation",cancellation
+"for my home internet, can't pair the modem",tech_support
+"agent transferred me here, I'm moving house next week",move_house
+book a relocation of nbn please,move_house
+"for my home internet, recharge my prepaid",recharge_topup
+sign me up for nbn please,new_connection
+incorrect GST on my statement please,billing_issue
+can you help: SIM not detected by phone,tech_support
+"hey support, purchase a recharge pack",recharge_topup
